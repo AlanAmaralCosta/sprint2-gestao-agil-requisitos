@@ -12,7 +12,7 @@ O Sprint de Gestão ágil contemplou as disciplinas:
 
 ## Links para acesso ãs entregas 🤖
 
-Lean Inception: [https://miro.com/app/board/uXjVM9gMQco=/?share_link_id=241560976000)
-AzureDevOps: [https://dev.azure.com/GrupoPWT/Permuta%20F%C3%A1cil%20-%20SHIELD/_workitems/recentlyupdated/]
-Figma protótipo: [https://www.figma.com/file/UzSM3Bqrp27UXyQnPT1vE4/Permuta-F%C3%A1cil?type=design&node-id=11-1833&mode=design&t=b0skbsHGtgBIr7Zn-0]
-Video de Apresentação: [https://youtu.be/ljXj2kqXMbA]
+- Lean Inception: [https://miro.com/app/board/uXjVM9gMQco=/?share_link_id=241560976000)
+- AzureDevOps: [https://dev.azure.com/GrupoPWT/Permuta%20F%C3%A1cil%20-%20SHIELD/_workitems/recentlyupdated/]
+- Figma protótipo: [https://www.figma.com/file/UzSM3Bqrp27UXyQnPT1vE4/Permuta-F%C3%A1cil?type=design&node-id=11-1833&mode=design&t=b0skbsHGtgBIr7Zn-0]
+- Video de Apresentação: [https://youtu.be/ljXj2kqXMbA]
