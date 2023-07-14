@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./src/img/logo-lbfb.png" alt="Logo da Liga Brasileira de Futebol de Botão">
-</p>
 
 # Sprint: Gestão Ágil de Projetos e Produtos (40530010061_20230_01)
 
