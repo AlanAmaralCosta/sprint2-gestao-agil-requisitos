@@ -7,7 +7,7 @@ O Sprint de Gestão ágil contemplou as disciplinas:
 - Engenharia de Requisitos e Gestão Ágil de Produtos;
 - Design e Prototipação da Interface do Usuário
 
-## Links para acesso ãs entregas 🤖
+## Links para acesso às entregas 🤖
 
 - Lean Inception: [https://miro.com/app/board/uXjVM9gMQco=/?share_link_id=241560976000)
 - AzureDevOps: [https://dev.azure.com/GrupoPWT/Permuta%20F%C3%A1cil%20-%20SHIELD/_workitems/recentlyupdated/]
